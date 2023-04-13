@@ -8,3 +8,6 @@
 - OpenAI cookbook https://github.com/openai/openai-cookbook;
 - OpenAI semantic text search https://github.com/openai/openai-cookbook/blob/main/examples/Semantic_text_search_using_embeddings.ipynb;
 - Amazon food reviews dataset https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download;
+
+## Tools
+- Youtube transcript https://chrome.google.com/webstore/detail/youtube-summary-with-chat/nmmicjeknamkfloonkhhcjmomieiodli;
