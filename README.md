@@ -1,5 +1,6 @@
 ## Usage
-1. Prepare sample data for playing with. Use [data preparation](./data_preparation.ipynb) notebook to complete this step;
+1. (**ALREADY DONE - BY THE REPO AUTHORS**) Prepare sample data for playing with. Use [data preparation](./data_preparation.ipynb) notebook to complete this step;
+2. Run the minimal [search by embeddings](./search_by_embeddings.ipynb) example to understand the overall logic of producing GPT response;
 
 ## Useful references
 
