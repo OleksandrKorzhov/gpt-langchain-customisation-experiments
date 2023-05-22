@@ -1,3 +1,6 @@
+## Usage
+1. Prepare sample data for playing with. Use [data preparation](./data_preparation.ipynb) notebook to complete this step;
+
 ## Useful references
 
 - Customised bot implementation from a third party author https://replit.com/@OleksandrKorzho/Custom-Chatbot#process.py;
