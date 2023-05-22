@@ -2,6 +2,11 @@
 1. (**ALREADY DONE - BY THE REPO AUTHORS**) Prepare sample data for playing with. Use [data preparation](./data_preparation.ipynb) notebook to complete this step;
 2. Run the minimal [search by embeddings](./search_by_embeddings.ipynb) example to understand the overall logic of producing GPT response;
 3. Run [content chunking](./content_chunking.ipynb) notebook to understand the difference and benefits of using GPT for text preparation before using it for Q/A;
+4. Run [search by embeddings from db](./search_by_embeddings_from_db.ipynb) notebook to use near-production solution;
+
+## Key moments to focus on during development
+- Retrieval of the most relevant to the user provided prompt information;
+- Transformation of the user provided prompt with a prompt template;
 
 ## Useful references
 
